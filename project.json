@@ -1,0 +1,14 @@
+{
+  "development": {
+    "appId": "de.mysite.myproject.development",
+    "appIcon": "__ldev"
+  },
+  "integration": {
+    "appId": "de.mysite.myproject.development",
+    "appIcon": "__int"
+  },
+  "production": {
+    "appId": "de.mysite.myproject.development",
+    "appIcon": ""
+  }
+}
